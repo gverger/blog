@@ -43,7 +43,7 @@ amet.&lt;/p&gt;
     <link rel="alternate" href="http://blog.url.com/blog/2016/05/03/testing.html"/>
     <id>http://blog.url.com/blog/2016/05/03/testing.html</id>
     <published>2016-05-03T12:21:58+02:00</published>
-    <updated>2016-05-09T12:28:18+02:00</updated>
+    <updated>2016-05-09T13:01:09+02:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -57,7 +57,7 @@ amet.&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;p&gt;and here is a random image
-&lt;img alt="random" src="random.png" /&gt;
+&lt;img alt="random" src="images/testing/random.png" /&gt;
 just to prove it works correctly&lt;/p&gt;
 </content>
   </entry>
