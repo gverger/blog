@@ -5,45 +5,16 @@
   <id>http://blog.url.com/blog</id>
   <link href="http://blog.url.com/blog"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2016-05-03T14:43:07+02:00</updated>
+  <updated>2016-05-03T12:21:58+02:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
-  <entry>
-    <title>Lorem Ipsum</title>
-    <link rel="alternate" href="http://blog.url.com/blog/2016/05/03/lorem-ipsum.html"/>
-    <id>http://blog.url.com/blog/2016/05/03/lorem-ipsum.html</id>
-    <published>2016-05-03T14:43:07+02:00</published>
-    <updated>2016-05-09T13:14:04+02:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut
-labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo
-dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit
-amet. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit
-esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt
-in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur
-adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum.&lt;/p&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut
-labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo
-dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit
-amet.&lt;/p&gt;
-</content>
-  </entry>
   <entry>
     <title>Testing editing stuff with middleman</title>
     <link rel="alternate" href="http://blog.url.com/blog/2016/05/03/testing.html"/>
     <id>http://blog.url.com/blog/2016/05/03/testing.html</id>
     <published>2016-05-03T12:21:58+02:00</published>
-    <updated>2016-05-09T18:01:48+02:00</updated>
+    <updated>2016-05-09T18:11:26+02:00</updated>
     <author>
       <name>Article Author</name>
     </author>
